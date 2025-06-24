@@ -1,6 +1,6 @@
 # Salary Calculator
 
-A web-based application for calculating and managing salary entries. This tool is designed to help track income from cleaning and general services, calculate totals, and generate summaries and invoices.
+A web-based application for calculating and managing salary entries. This tool is designed to help track income from general services, calculate totals, and generate summaries and invoices.
 
 ## Features
 
